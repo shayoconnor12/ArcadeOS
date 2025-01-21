@@ -1,9 +1,0 @@
-Assembly notes:
-
-  bx is a general purpose register used for storing addresses
-  array: dw 100, 200, 300
-    mov bx, array
-
-  ^ the above code defines an array of 2 byte words
-    moves the offset of the array into bx
-
